@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/immortalcoder_" target="blank"><img src="https://img.shields.io/twitter/follow/immortalcoder_?logo=twitter&style=for-the-badge" alt="immortalcoder_" /></a> </p>
 
-- 🔭 I’m currently working on [Techsphere](https://github.com/rakesh0x/TechSphere)
+- 🔭 I’m currently working on [100xLearn](https://github.com/rakesh0x/Trivia_Game)
 
 - 🌱 I’m currently learning **MERN stack**
 
