@@ -1,8 +1,6 @@
-hey
+hey, i like to code.
 
-i like to code \n
-part time engineer
-full time gooner
+part-time engineer.  
+full-time gooner.
 
-
-working on https://turbochat.live
+currently building :contentReference[oaicite:1]{index=1}
