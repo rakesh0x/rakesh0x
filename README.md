@@ -4,10 +4,13 @@
 
 # rakesh here.
 
-building https://turbochat.live
+building <https://turbochat.live>
 
-full-stack engineer focused on ai, developer tools, and products.
+product engineer.
 
-currently obsessed with shipping fast, learning in public, and solving real problems.
+ai // full-stack // developer tools
 
-website | linkedin | x | turbochat
+[website](https://rakesh.codes) |
+[linkedin](https://www.linkedin.com/in/rakesh-jha-0269892b8/) |
+[x](https://x.com/yourusername) |
+[turbochat](https://turbochat.live)
