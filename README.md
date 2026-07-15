@@ -4,7 +4,7 @@
 
 building [turbochat](https://turbochat.live)
 
-product engineer.
+engineer.
 
 ai // full-stack // developer tools
 
